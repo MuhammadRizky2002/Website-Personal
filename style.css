@@ -1,0 +1,12 @@
+/* Di dalam file CSS terpisah (styles.css) atau di dalam tag <style> dalam dokumen HTML */
+body {
+    <style>
+    background-image: url('doodle.jpg.jpg'); /* Ganti dengan path atau URL gambar latar belakang Anda */
+    background-size: cover; /* Menyesuaikan gambar agar mengisi seluruh halaman */
+    background-repeat: no-repeat; /* Mencegah gambar berulang */
+    background-attachment: fixed; /* Membuat latar belakang tetap saat gulir halaman */
+  }
+  
+
+  
+  
